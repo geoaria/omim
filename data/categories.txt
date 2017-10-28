@@ -34,6 +34,7 @@
 #
 
 @food
+fa:خوراک
 en:Food
 ru:Еда
 ar:طعام
@@ -66,6 +67,7 @@ he:אוכל
 sk:Jedlo
 
 @transport
+fa:ترابری
 en:Transport
 ru:Транспорт
 ar:^مواصلات|نقل
@@ -98,6 +100,7 @@ he:תחבורה
 sk:Doprava
 
 @fuel
+fa:سوخت
 en:2Gas
 ru:3^Заправка
 ar:1^وقود|بنزين|سولار|ديزل|غاز
@@ -131,6 +134,7 @@ sk:3^Čerpacia stanica
 sw:Sheli
 
 @parking
+fa:پارکینگ
 en:^Parking
 ru:^Парковка
 ar:^موقف سيارات
@@ -163,6 +167,7 @@ he:^חניה
 sk:^Parkovisko
 
 @shop
+fa:فروشگاه
 en:^Shop
 ru:^Магазин
 ar:^متجر
@@ -196,6 +201,7 @@ sk:^Obchod
 sw:^Duka
 
 @hotel
+fa:هتل
 en:^Hotel
 ru:^Гостиница
 ar:^فندق
@@ -228,6 +234,7 @@ he:^מלון
 sk:^Hotel
 
 @tourism
+fa:گردشگری
 en:Sights
 ru:Достопримечательность
 ar:سياحة
@@ -260,6 +267,7 @@ he:נקודות עיניין
 sk:Pamätihodnosť
 
 @entertainment
+fa:سرگرمی
 en:Entertainment
 ru:Развлечения
 ar:ترفيه وتسلية
@@ -292,6 +300,7 @@ he:בידור
 sk:Zábava
 
 @atm
+fa:^خودپرداز
 en:^ATM|Cash machine
 ru:3^Банкомат
 ar:^ماكينة صرافة آلية|صراف|صراف آلي
@@ -356,6 +365,7 @@ el:χρήματα
 sk:sporiteľna|peniaze
 
 @bank
+fa:^بانک
 en:3^Bank
 ru:3^Банк
 ar:^بنك
@@ -389,6 +399,7 @@ sk:3^Banka
 sw:^Benki|fedha
 
 amenity-bank|@bank
+fa:^بانک|نیازمندیها
 en:money|U+1F3E6|U+1F4B0|U+1F4B2|U+1F4B3|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:деньги
 ar:^بنك|الأموال|فلوس|نقود|مال
@@ -418,6 +429,7 @@ el:χρήματα
 sk:peniaze
 
 amenity-bureau_de_change
+fa:^صرافی|نیازمندیها
 en:3^Currency Exchange|3exchange|money|U+1F4B1|U+1F4B2|U+1F4B4|U+1F4B5|U+1F4B6|U+1F4B7
 ru:3^Обмен валюты|обменник|4валюта|деньги
 ar:^تحويل عملات|تغيير عملات|الصرف|الأموال|صرف عملات|صرف
@@ -449,6 +461,7 @@ el:^Συνάλλαγμα|ανταλλακτήριο|χρήματα
 sk:3^Zmenáreň|peniaze
 
 amenity-bar|@food
+fa:^مشروب|نیازمندیها
 en:2^Bar|2pub|beer|drink|U+1F37A|U+1F37B|U+1F376
 ru:2^Бар|2паб|пиво|выпить|еда
 ar:^حانة|خمارة|بيرة|شراب
@@ -481,6 +494,7 @@ sk:2^Bar|pivo|pitie|voda|pitná voda|tekutiny
 sw:^Baa|vinywaji
 
 amenity-pub|@food
+fa:^بار|نیازمندیها
 en:2^Pub|bar|beer|U+1F37A|U+1F37B
 ru:^Паб|бар|пиво|выпить|еда
 ar:^بار|حانة|خمارة|بيرة|شراب
@@ -512,6 +526,7 @@ el:^Παμπ|μπαρ|μπύρα|φαγητό
 sk:^Pohostinstvo|Bar|pivo|pitie|voda|pitná voda|tekutiny
 
 amenity-cafe|@food
+fa:^قهوه خانه|نیازمندیها
 en:3^Cafe|3restaurant|U+2615|U+1F356|U+1F357|U+1F35A|U+1F35B|U+1F35C|U+1F35D|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374|U+1F377|U+1F60B|U+1F375
 ru:3^Кафе|3ресторан|3еда
 ar:^مقهى|مطعم|طعام|قهوة|كافتيريا
@@ -544,6 +559,7 @@ sk:3^Kaviareň|reštaurácia|pohostinstvo
 sw:^Mgahawa|hoteli|chakula
 
 amenity-fast_food|@food
+fa:^خوراک حاضری|نیازمندیها
 en:4^Fast Food|3restaurant|3cafe|takeaway|U+1F354|U+1F355|U+1F35F|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374
 ru:3^Фастфуд|3ресторан|3кафе|еда
 ar:^وجبات سريعة|مطعم|مقهى|وجبة جاهزة|طعام
@@ -575,6 +591,7 @@ el:^Εστιατόριο|καφετέρια|φαγητό για το σπίτι|
 sk:2^Rýchle občerstvenie|4fastfood|3kaviareň|reštaurácia
 
 amenity-restaurant|@food
+fa:^رستوران|نیازمندیها
 en:3^Restaurant|3cafe|U+1F356|U+1F357|U+1F35A|U+1F35B|U+1F35C|U+1F35D|U+1F363|U+1F366|U+1F367|U+1F368|U+1F369|U+1F370|U+1F372|U+1F374|U+1F377|U+1F60B
 ru:3^Ресторан|3кафе|еда
 ar:2^مطعم|مقهى|طعام
@@ -607,6 +624,7 @@ sk:3^Reštaurácia|pohostinstvo|kaviareň
 sw:^Hoteli|restorenti|mgahawa|chakula
 
 amenity-fuel|@fuel
+fa:^جایگاه سوخت|نیازمندیها
 en:^Gas Station|3fuel|petrol|petrol station|U+26FD
 ru:Бензин|топливо|азс
 ar:^محطة وقود|بترول
@@ -636,6 +654,7 @@ sk:3^Benzínová pumpa
 sw:mafuta
 
 shop-bakery|@shop
+fa:^نانوایی|فروشگاه
 en:3^Bakery|U+1F35E
 ru:3^Булочная|магазин
 ar:^مخبز|متجر
@@ -668,6 +687,7 @@ sk:3^Pekáreň
 sw:^Kituo cha kuwoka mikate
 
 shop|@shop
+fa:^فروشگاه
 en:U+1F3EA|U+1F3EC
 ar:متجر
 da:forretning
@@ -683,6 +703,7 @@ zh-Hant:1購物|店鋪|商店|雜貨店|便利商店
 el:Κατάστημα
 
 shop-cosmetics|@shop
+fa:^لوازم آرایشی|فروشگاه
 en:4^Beauty Care|home care|U+1F3EC|U+1F3EA
 ru:^Магазин косметики|4Косметика|бытовая химия|магазин
 ar:^مستحضرات تجميل|تجميل
@@ -716,6 +737,7 @@ sk:4^Kozmetika
 sw:^Vipodozi
 
 shop-convenience|@shop
+fa:^مغازه|فروشگاه
 en:4^Convenience Store|U+1F3EC|U+1F3EA
 ru:4^Продуктовый магазин|2магазин
 ar:^متجر صغير
@@ -748,6 +770,7 @@ sk:^Príležitostné potreby
 sw:^Duka
 
 shop-garden_centre|@shop
+fa:^گلخانه
 en:^Garden Store|U+1F3EC|U+1F3EA|U+1F3E1
 ru:^Садовые товары|магазин
 ar:^حضانة|روضة
@@ -779,6 +802,7 @@ el:^Κατάστημα ειδών κήπου|κατάστημα
 sk:^Škôlka|materská škôlka
 
 shop-mobile_phone|@shop
+fa:^فروشگاه گوشی همراه
 en:^Cell Phones|Mobile Phones|electronics store|U+1F3EC|U+1F3EA|U+1F4F1|U+1F4F2
 ru:^Магазин мобильных телефонов|Сотовые|3Мобильные телефоны|электроника|салон связи|магазин
 ar:^متجر هواتف محمولة|متجر إلكترونيات|متجر هواتف خلوية|هاتف
@@ -811,6 +835,7 @@ sk:^Mobilné telefóny
 sw:^Duka la simu
 
 shop-florist|@shop
+fa:^گلفروشی
 en:^Florist’s|U+1F337|U+1F338|U+1F339|U+1F33A|U+1F33B|U+1F33C|U+1F490|U+1F33E
 ru:^Цветочный магазин|цветы|2магазин
 ar:^متجر زهور|متجر
@@ -842,6 +867,7 @@ el:^Ανθοπωλείο|κατάστημα
 sk:^Kvety|kvetinárstvo
 
 shop-butcher|@shop
+fa:^قصابی
 en:^Butcher’s|U+1F356|U+1F357
 ru:^Мясная лавка|мясо|2магазин
 ar:^جزار|جزارة|متجر لحوم|متجر
