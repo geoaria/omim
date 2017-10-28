@@ -40,6 +40,7 @@ ar:طعام
 cs:Jídlo
 da:Mad
 nl:Eten
+fa:خوراک
 fi:Ruoka
 fr:Nourriture
 de:Essen
